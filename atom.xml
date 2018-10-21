@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-20T07:25:09.847Z</updated>
+  <updated>2018-10-21T07:28:52.175Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>红砖厂的猫</title>
+    <link href="http://yoursite.com/2018/10/21/%E7%BA%A2%E7%A0%96%E5%8E%82%E7%9A%84%E7%8C%AB/"/>
+    <id>http://yoursite.com/2018/10/21/红砖厂的猫/</id>
+    <published>2018-10-21T06:48:42.000Z</published>
+    <updated>2018-10-21T07:28:52.175Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/hzccat.jpg" alt="cat" title="猫"><br>设备：600D<br>镜头：八羽怪 44-2</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/hzccat.jpg&quot; alt=&quot;cat&quot; title=&quot;猫&quot;&gt;&lt;br&gt;设备：600D&lt;br&gt;镜头：八羽怪 44-2&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="猫" scheme="http://yoursite.com/tags/%E7%8C%AB/"/>
+    
+      <category term="cat" scheme="http://yoursite.com/tags/cat/"/>
+    
+  </entry>
   
   <entry>
     <title>第一个博客</title>
