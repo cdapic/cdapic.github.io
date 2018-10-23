@@ -5,9 +5,9 @@
   <subtitle>个人作品</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://cdapic.github.io/"/>
   <updated>2018-10-21T07:28:52.175Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://cdapic.github.io/</id>
   
   <author>
     <name>chendingan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>红砖厂的猫</title>
-    <link href="http://yoursite.com/2018/10/21/%E7%BA%A2%E7%A0%96%E5%8E%82%E7%9A%84%E7%8C%AB/"/>
-    <id>http://yoursite.com/2018/10/21/红砖厂的猫/</id>
+    <link href="https://cdapic.github.io/2018/10/21/%E7%BA%A2%E7%A0%96%E5%8E%82%E7%9A%84%E7%8C%AB/"/>
+    <id>https://cdapic.github.io/2018/10/21/红砖厂的猫/</id>
     <published>2018-10-21T06:48:42.000Z</published>
     <updated>2018-10-21T07:28:52.175Z</updated>
     
@@ -36,16 +36,16 @@
     </summary>
     
     
-      <category term="猫" scheme="http://yoursite.com/tags/%E7%8C%AB/"/>
+      <category term="猫" scheme="https://cdapic.github.io/tags/%E7%8C%AB/"/>
     
-      <category term="cat" scheme="http://yoursite.com/tags/cat/"/>
+      <category term="cat" scheme="https://cdapic.github.io/tags/cat/"/>
     
   </entry>
   
   <entry>
     <title>第一个博客</title>
-    <link href="http://yoursite.com/2018/10/20/Frist%20Blog/"/>
-    <id>http://yoursite.com/2018/10/20/Frist Blog/</id>
+    <link href="https://cdapic.github.io/2018/10/20/Frist%20Blog/"/>
+    <id>https://cdapic.github.io/2018/10/20/Frist Blog/</id>
     <published>2018-10-20T07:23:00.267Z</published>
     <updated>2018-10-20T07:25:09.847Z</updated>
     
@@ -62,14 +62,14 @@
     </summary>
     
     
-      <category term="Frist" scheme="http://yoursite.com/tags/Frist/"/>
+      <category term="Frist" scheme="https://cdapic.github.io/tags/Frist/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/10/19/hello-world/"/>
-    <id>http://yoursite.com/2018/10/19/hello-world/</id>
+    <link href="https://cdapic.github.io/2018/10/19/hello-world/"/>
+    <id>https://cdapic.github.io/2018/10/19/hello-world/</id>
     <published>2018-10-19T15:57:21.141Z</published>
     <updated>2018-10-19T15:57:21.141Z</updated>
     
