@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>CDA个人博客</title>
   
-  <subtitle>个人作品</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cdapic.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://cdapic.github.io/</id>
   
   <author>
-    <name>chendingan</name>
+    <name>ChenDingAn</name>
     
   </author>
   
