@@ -95,8 +95,7 @@ menu:
   home: / || home
   about: /about/ || user
   tags: /tags/ || tags
-  Lofter: http://dingan-chen.lofter.com || camera
-  Instagram: https://www.instagram.com/dingan_chan/ || instagram
+  #Instagram: https://www.instagram.com/dingan_chan/ || instagram
   #categories: /categories/ || th
   #archives: /archives/ || archive
   #schedule: /schedule/ || calendar
@@ -107,7 +106,7 @@ menu:
 menu_icons:
   enable: true
   Lofter: camera
-  Instagram: instagram
+  #Instagram: instagram
 
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -128,8 +127,10 @@ scheme: Pisces
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/cdapic
+social:
+  乐乎Lofter: http://dingan-chen.lofter.com || camera
+  Instagram: https://www.instagram.com/dingan_chan/ || instagram
+  GitHub: https://github.com/cdapic || github
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -137,7 +138,6 @@ scheme: Pisces
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
-  #Instagram: https://www.instagram.com/dingan_chan/
   #Skype: skype:yourname?call|chat || skype
 
 social_icons:
@@ -245,7 +245,7 @@ post_wordcount:
 
 # Reward
 reward_comment: 支持原创，理性打赏o(∩_∩)o
-#wechatpay: /images/wechatpay.jpg
+wechatpay: /images/wechatpay.jpg
 alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
@@ -355,7 +355,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+#baidu_analytics: SwNa4JVPYN
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -574,7 +574,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
