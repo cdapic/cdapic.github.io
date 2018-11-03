@@ -95,8 +95,7 @@ menu:
   home: / || home
   about: /about/ || user
   tags: /tags/ || tags
-  Lofter: http://dingan-chen.lofter.com || camera
-  Instagram: https://www.instagram.com/dingan_chan/ || instagram
+  
   #categories: /categories/ || th
   #archives: /archives/ || archive
   #schedule: /schedule/ || calendar
@@ -128,9 +127,11 @@ scheme: Pisces
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/cdapic
-  #E-Mail: mailto:yourname@gmail.com || envelope
+social:
+  乐乎Lofter: http://dingan-chen.lofter.com || camera
+  Instagram: https://www.instagram.com/dingan_chan/ || instagram
+  GitHub: https://github.com/cdapic
+  E-Mail: dingan-chan@hotmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -163,7 +164,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
@@ -355,7 +356,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: SwNa4JVPYN
 
 # Duoshuo ShortName
 #duoshuo_shortname:
