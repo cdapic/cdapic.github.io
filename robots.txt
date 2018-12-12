@@ -8,5 +8,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://cdaphoto.github.io/sitemap.xml
-Sitemap: https://cdaphoto.github.io/baidusitemap.xml
+Sitemap: https://cdapic.github.io/sitemap.xml
+Sitemap: https://cdapic.github.io/baidusitemap.xml
