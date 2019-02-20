@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cdapic.github.io/"/>
-  <updated>2019-02-20T06:18:54.505Z</updated>
+  <updated>2019-02-20T06:23:28.762Z</updated>
   <id>https://cdapic.github.io/</id>
   
   <author>
@@ -17,24 +17,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>20190211HK</title>
+    <title>年初七在香港</title>
     <link href="https://cdapic.github.io/20190211HK.html"/>
     <id>https://cdapic.github.io/20190211HK.html</id>
     <published>2019-02-20T06:15:37.000Z</published>
-    <updated>2019-02-20T06:18:54.505Z</updated>
+    <updated>2019-02-20T06:23:28.762Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://cdapic.nos-eastchina1.126.net/2019-02-11%20151651.jpg" alt="海风"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdapic.nos-eastchina1.126.net/2019-02-11%20151651.jpg" alt="人像摄影" title="港风"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;https://cdapic.nos-eastchina1.126.net/2019-02-11%20151651.jpg&quot; alt=&quot;海风&quot;&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;https://cdapic.nos-eastchina1.126.net/2019-02-11%20151651.jpg&quot; alt=&quot;人像摄影&quot; title=&quot;港风&quot;&gt;&lt;/p&gt;
 
       
     
     </summary>
     
+    
+      <category term="人像" scheme="https://cdapic.github.io/tags/%E4%BA%BA%E5%83%8F/"/>
+    
+      <category term="摄影" scheme="https://cdapic.github.io/tags/%E6%91%84%E5%BD%B1/"/>
     
   </entry>
   
